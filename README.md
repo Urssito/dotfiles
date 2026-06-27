@@ -21,7 +21,7 @@ yay -S --needed - < aurpkglist.txt
 Clona el repositorio como un *bare repository* para gestionar los archivos directamente en tu directorio `$HOME`:
 
 ```bash
-git clone --bare git@github.com:tu-usuario/tus-dotfiles.git \$HOME/.dotfiles
+git clone --bare git@github.com:Urssito/dotfiles.git \$HOME/.dotfiles
 ```
 
 ### 3. Configurar el Alias Temporal
